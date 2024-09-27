@@ -1,2 +1,2 @@
 # Salesforceprtc2
-Salesforce Project Ready Talenet Program
+Salesforce Project Ready Talent Program
